@@ -5,10 +5,10 @@
 - Minha meta é me tornar um programador full-stack
 - Pronome: ele/dele
 
+##
+
 ![João Victor GitHub stats](https://github-readme-stats.vercel.app/api?username=joritodev&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joritodev&layout=compact&theme=radical)](https://github.com/joritodev/github-readme-stats)
-
-##
 
 <a href="https://www.linkedin.com/in/joão-victor-carvalho-montenegro/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 
