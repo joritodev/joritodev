@@ -11,3 +11,5 @@
 
 ![João Victor GitHub stats](https://github-readme-stats.vercel.app/api?username=joritodev&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joritodev&layout=compact&theme=radical)](https://github.com/joritodev/github-readme-stats)
+
+![snake gif](https://github.com/joritodev/joritodev/blob/output/github-contribution-grid-snake.svg)
