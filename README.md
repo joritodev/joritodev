@@ -5,8 +5,7 @@
 - Minha meta é me tornar um programador full-stack(desenvolvedor de software, web,...)
 - Sempre disposto a aprender coisas novas e aprender sobre outra áreas de TI
 
-![João Victor GitHub stats](https://github-readme-stats.vercel.app/api?username=joritodev&show_icons=true&theme=dracula)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joritodev&layout=compact&theme=dracula)](https://github.com/joritodev/github-readme-stats)
+##
 
 <div style="display: inline_block">
   <img align="center" alt="Jorito-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
