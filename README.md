@@ -1,6 +1,10 @@
+![Jorito's GitHub stats](https://github-readme-stats.vercel.app/api?username=joritodev&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joritodev&layout=compact&theme=tokyonight)
+
+
 ### Olá, me chamo João Victor
 
-- Estou atualmente estudando no Centro Universitário Farias Brito
+- Estou atualmente estudando no Centro Universitário Farias Brito em Fortaleza, Ceará
 - Atualmente estudando HTML e CSS
 - Minha meta é me tornar um programador full-stack(desenvolvedor de software, web,...)
 - Sempre disposto a aprender coisas novas e aprender sobre outra áreas de TI
@@ -16,5 +20,5 @@
 ##
 
 <div style="display: inline_block">
-<a href="https://www.linkedin.com/in/joão-victor-carvalho-montenegro/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="linkedin.com/in/joaovcmontenegro/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </div>
