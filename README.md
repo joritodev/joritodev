@@ -1,3 +1,4 @@
+
 ![Jorito's GitHub stats](https://github-readme-stats.vercel.app/api?username=joritodev&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joritodev&layout=compact&theme=tokyonight)
 
@@ -8,6 +9,10 @@
 - Atualmente estudando HTML e CSS
 - Minha meta é me tornar um programador full-stack(desenvolvedor de software, web,...)
 - Sempre disposto a aprender coisas novas e aprender sobre outra áreas de TI
+
+##
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=joritodev&theme=tokyonight&background=1a1b27&border=FFF&dates=FFF)](https://git.io/streak-stats)
 
 ##
 
