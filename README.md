@@ -5,9 +5,7 @@
 - Minha meta é me tornar um Desenvolvedor Web Full-Stack
 - Sempre disposto a aprender coisas novas e aprender sobre outra áreas de TI
 
-| Github Stats |
-|-------------|
-| ![Diogo GitHub stats](https://github-readme-stats.vercel.app/api?username=joritodev&show_icons=true&theme=tokyonight) &nbsp; [![GitHub Streak](https://streak-stats.demolab.com/?user=joritodev&theme=tokyonight)](https://git.io/streak-stats)
+ ![Diogo GitHub stats](https://github-readme-stats.vercel.app/api?username=joritodev&show_icons=true&theme=tokyonight) &nbsp; [![GitHub Streak](https://streak-stats.demolab.com/?user=joritodev&theme=tokyonight)](https://git.io/streak-stats)
 
 ##
 
