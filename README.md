@@ -1,9 +1,10 @@
 ## Olá, me chamo João Victor
 
 - Estou atualmente estudando Ciências da Computação no Centro Universitário Farias Brito em Fortaleza, Ceará
-- Atualmente estudando Front-end
+- Atualmente estudando Java pela faculdade
+- Atualmente estudando Front-end por fora da faculdade
 - Minha meta é me tornar um Desenvolvedor Web Full-Stack
-- Sempre disposto a aprender coisas novas e aprender sobre outra áreas de TI
+- Sempre disposto a aprender coisas novas e aprender sobre outras áreas de TI
 
  ![Diogo GitHub stats](https://github-readme-stats.vercel.app/api?username=joritodev&show_icons=true&theme=tokyonight) &nbsp; [![GitHub Streak](https://streak-stats.demolab.com/?user=joritodev&theme=tokyonight)](https://git.io/streak-stats)
 
@@ -14,6 +15,7 @@
   <img align="center" alt="Jorito-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Jorito-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Jorito-C++" height="36" width="36" src="https://img.icons8.com/fluency/256/c-plus-plus-logo.png">
+  
 </div>
 <br>
 
